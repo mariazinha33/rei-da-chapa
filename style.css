@@ -1,0 +1,5 @@
+:root{
+    --cor-de-funfo: rgb(167, 115, 162);
+    --cor-do-cabecalho: rgb(117, 67, 112);
+}
+body{background-color: var(--cor-de-funfo);}
