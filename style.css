@@ -1,7 +1,7 @@
 @import url("styles/header.css");
 
 :root{
-    --cor-de-funfo: rgb(241, 196, 72);
+    --cor-de-funfo: rgb(199, 122, 49);
     --cor-do-cabecalho: rgb(180, 84, 28);
 }
 body{background-color: var(--cor-de-funfo);}
