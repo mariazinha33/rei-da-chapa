@@ -2,7 +2,7 @@
 @import url("styles/banner.css");
 
 :root{
-    --cor-de-funfo: rgb(216, 129, 48);
+    --cor-de-fundo: rgb(216, 129, 48);
     --cor-do-cabecalho: rgb(180, 84, 28);
     --cor-do-menu: rgb(255, 217, 0);
     
